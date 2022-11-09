@@ -1,5 +1,7 @@
+
 sam = ["a","e","i","o","u","y","ą","ę","ó"]
-lit = lower(input("Podaj literę:"))
+lit = input("Podaj literę: ")
+lit = lit.lower()
 if lit in sam:
 	print("Podana litera jest samogłoską")
 else:
