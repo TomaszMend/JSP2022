@@ -1,2 +1,4 @@
 import math
-print (math.gcd(3, 6))
+a=int(input("Wpisz liczbe calkowita: "))
+b=int(input("Wpisz kolejna liczbe calkowita: "))
+print (math.gcd(a, b))
