@@ -1,2 +1,1 @@
-lista = [1, 1, 1, 2, 2]
-print(lista, list(dict.fromkeys(lista)))
+print("[1, 1, 1, 2, 2]", list(set([1, 1, 1, 2, 2])))
