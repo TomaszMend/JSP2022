@@ -124,8 +124,8 @@ def słowawliczby(liczs):
             licz = 8
         if "dziewięć" in liczs:
             licz = 9
+    return licz
+
 print("Wpisz słownie liczbe od 1 do 59")
 liczs=input()
-licz = 0
-słowawliczby(licz, liczs)
-print("Wpisana liczba to ",licz)
+print("Wpisana liczba to ",słowawliczby(liczs))

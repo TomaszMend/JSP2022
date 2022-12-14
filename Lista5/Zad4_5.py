@@ -1,5 +1,6 @@
 
 def szyfrowanie(x):
+    c=[]
     klucz = {"a": "y", "e": "i", "i":"o","o":"a","y":"e"}
     for i in range(0,len(x)):
         if x[i] in klucz:
