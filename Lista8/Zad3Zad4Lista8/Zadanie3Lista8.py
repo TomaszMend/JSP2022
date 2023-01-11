@@ -7,6 +7,8 @@ for x in range(10):
         slowo=slowo+str(random.randint(0, 9))
     if slowo[2]=="9" or slowo[2]=="7" or slowo[2]=="5" or slowo[2]=="3" or slowo[2]=="1":
         slowo=slowo+str(random.randint(0, 2))
+    elif slowo[2]=="8" or slowo[2]=="6" or slowo[2]=="4" or slowo[2]=="2" or slowo[2]=="0":
+        slowo=slowo+str(random.randint(1, 9))
     else:
         slowo=slowo+str(random.randint(0, 9))
     month=slowo[2:]
@@ -29,6 +31,8 @@ for x in range(10):
         slowo=slowo+str(random.randint(0,3))
         if int(slowo[4])==3:
             slowo=slowo+str(random.randint(0,1))
+        elif int(slowo[4])==0:
+            slowo=slowo+str(random.randint(1,9))
         else:
             slowo=slowo+str(random.randint(0,9))
     elif month==2:
@@ -36,15 +40,19 @@ for x in range(10):
                 slowo=slowo+str(random.randint(0,2))
                 slowo=slowo+str(random.randint(0,9))
         else:
-                slowo=slowo+str(random.randint(0,3))
+                slowo=slowo+str(random.randint(0,2))
                 if int(slowo[4])==2:
                     slowo=slowo+str(random.randint(0,8))
+                elif int(slowo[4])==0:
+                    slowo=slowo+str(random.randint(1,9))
                 else:
                     slowo=slowo+str(random.randint(0,9))
     else:
         slowo=slowo+str(random.randint(0,3))
         if int(slowo[4])==3:
             slowo=slowo+"0"
+        elif int(slowo[4])==0:
+            slowo=slowo+str(random.randint(1,9))
         else:
             slowo=slowo+str(random.randint(0,9))
     for m in range(4):
