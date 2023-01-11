@@ -1,0 +1,80 @@
+nr PESEL: 71101635277 
+ Data Urodznia: 16.10.1971; 	 płeć: Mężczyzna 
+nr PESEL: 00220357371 
+ Data Urodznia: 03.02.2000; 	 płeć: Mężczyzna 
+nr PESEL: 20690426443 
+ Data Urodznia: 04.09.2220; 	 płeć: Kobieta 
+nr PESEL: 36702737050 
+ Data Urodznia: 27.10.2236; 	 płeć: Mężczyzna 
+nr PESEL: 62302546039 
+ Data Urodznia: 25.10.2062; 	 płeć: Mężczyzna 
+nr PESEL: 14920736774 
+ Data Urodznia: 07.12.1814; 	 płeć: Mężczyzna 
+nr PESEL: 41520801702 
+ Data Urodznia: 08.12.2141; 	 płeć: Kobieta 
+nr PESEL: 95060288165 
+ Data Urodznia: 02.06.1995; 	 płeć: Kobieta 
+nr PESEL: 69053087895 
+ Data Urodznia: 30.05.1969; 	 płeć: Mężczyzna 
+nr PESEL: 09073087484 
+ Data Urodznia: 30.07.1909; 	 płeć: Kobieta 
+nr PESEL: 76220525605 
+ Data Urodznia: 05.02.2076; 	 płeć: Kobieta 
+nr PESEL: 24711294613 
+ Data Urodznia: 12.11.2224; 	 płeć: Mężczyzna 
+nr PESEL: 82441925159 
+ Data Urodznia: 19.04.2182; 	 płeć: Mężczyzna 
+nr PESEL: 17101773823 
+ Data Urodznia: 17.10.1917; 	 płeć: Kobieta 
+nr PESEL: 53091154255 
+ Data Urodznia: 11.09.1953; 	 płeć: Mężczyzna 
+nr PESEL: 97243010004 
+ Data Urodznia: 30.04.2097; 	 płeć: Kobieta 
+nr PESEL: 37300769249 
+ Data Urodznia: 07.10.2037; 	 płeć: Kobieta 
+nr PESEL: 30701433856 
+ Data Urodznia: 14.10.2230; 	 płeć: Mężczyzna 
+nr PESEL: 30690087133 
+ Data Urodznia: 00.09.2230; 	 płeć: Mężczyzna 
+nr PESEL: 79103035156 
+ Data Urodznia: 30.10.1979; 	 płeć: Mężczyzna 
+nr PESEL: 39210451131 
+ Data Urodznia: 04.01.2039; 	 płeć: Mężczyzna 
+nr PESEL: 95121328577 
+ Data Urodznia: 13.12.1995; 	 płeć: Mężczyzna 
+nr PESEL: 74603033031 
+ Data Urodznia: 30.20.2174; 	 płeć: Mężczyzna 
+nr PESEL: 11221494934 
+ Data Urodznia: 14.02.2011; 	 płeć: Mężczyzna 
+nr PESEL: 68322847776 
+ Data Urodznia: 28.12.2068; 	 płeć: Mężczyzna 
+nr PESEL: 75923156778 
+ Data Urodznia: 31.12.1875; 	 płeć: Mężczyzna 
+nr PESEL: 54892276007 
+ Data Urodznia: 22.09.1854; 	 płeć: Kobieta 
+nr PESEL: 18903145018 
+ Data Urodznia: 31.10.1818; 	 płeć: Mężczyzna 
+nr PESEL: 50022847110 
+ Data Urodznia: 28.02.1950; 	 płeć: Mężczyzna 
+nr PESEL: 77013029227 
+ Data Urodznia: 30.01.1977; 	 płeć: Kobieta 
+nr PESEL: 23872350235 
+ Data Urodznia: 23.07.1823; 	 płeć: Mężczyzna 
+nr PESEL: 21412496993 
+ Data Urodznia: 24.01.2121; 	 płeć: Mężczyzna 
+nr PESEL: 16620842137 
+ Data Urodznia: 08.02.2216; 	 płeć: Mężczyzna 
+nr PESEL: 13882105723 
+ Data Urodznia: 21.08.1813; 	 płeć: Kobieta 
+nr PESEL: 71722662638 
+ Data Urodznia: 26.12.2271; 	 płeć: Mężczyzna 
+nr PESEL: 21622635742 
+ Data Urodznia: 26.02.2221; 	 płeć: Kobieta 
+nr PESEL: 69122225362 
+ Data Urodznia: 22.12.1969; 	 płeć: Kobieta 
+nr PESEL: 12021342627 
+ Data Urodznia: 13.02.1912; 	 płeć: Kobieta 
+nr PESEL: 96003059387 
+ Data Urodznia: 30.00.1996; 	 płeć: Kobieta 
+nr PESEL: 82713007570 
+ Data Urodznia: 30.11.2282; 	 płeć: Mężczyzna 
